@@ -1,1 +1,3 @@
-# Traffic-Road-Accidents-Analysis
+# Traffic Road Accidents Analysis
+
+To reduce the traffic accident rate on highways, the first step is to identify the key factors associated with the severity of traffic accidents, such as demographic characteristics, road conditions, and environmental factors, while setting a target to reduce the rate of severe accidents by 15%. By utilizing data analysis, statistical analysis, and visualizations, measures such as driver education, road infrastructure improvements, and safety campaigns can be implemented with the goal of achieving the reduction within one year. Monthly evaluations will be conducted to monitor progress and adjust strategies accordingly.
